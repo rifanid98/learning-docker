@@ -1,0 +1,1 @@
+docker build -t rifanid/03from_instruction 03from_instruction
