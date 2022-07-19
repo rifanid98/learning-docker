@@ -1,1 +1,2 @@
-docker build -t rifanid/03from_instruction 03from_instruction
+# docker build -t dockerhub_username/target_image_name dockerfile_directory
+docker build -t rifanid/from_instruction .
