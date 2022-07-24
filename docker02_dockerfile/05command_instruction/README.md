@@ -7,6 +7,6 @@
 # Command Instruction Format
 
 - Perintah CMD memiliki beberapa format:
-- CMD command param param
-- CMD ["executable","param","param"]
-- CMD ["param","param"], akan menggunakan executable ENTRY POINT, yang akan dibahas di chapter terpisah
+- `CMD command param param`
+- `CMD ["executable","param","param"]`
+- `CMD ["param","param"], akan menggunakan executable ENTRY POINT, yang akan dibahas di chapter terpisah`

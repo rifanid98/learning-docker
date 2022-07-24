@@ -7,8 +7,8 @@
 # Run Instruction Format
 
 - Perintah RUN memiliki 2 format :
-- RUN command 
-- RUN [“executable”, “argument”, “...”] 
+- `RUN command` 
+- `RUN [“executable”, “argument”, “...”]` 
 
 # Display Output
 

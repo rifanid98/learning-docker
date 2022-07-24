@@ -10,5 +10,5 @@
 - Instruksi ADD memiliki format sebagai berikut :
 - ADD source destination 
 - Contoh : 
-- ADD world.txt hello # menambah file world.txt ke folder hello 
-- ADD *.txt hello # menambah semua file .txt ke folder hello
+- `ADD world.txt hello # menambah file world.txt ke folder hello` 
+- `ADD *.txt hello # menambah semua file .txt ke folder hello`
