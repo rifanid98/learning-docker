@@ -26,8 +26,8 @@
 
 - Jika kita menggunakan perintah docker push, secara default itu akan melakukan push ke Container Registry yang teregistrasi di $HOME/.docker
 - Karena kita menggunakan lokasi yang berbeda untuk Digital Ocean, jadi ketika melakukan push, kita perlu mengubah default config nya menggunaka perintah :
-- `docker tag rifanid/image_name registry.digitalocean.com/digitalocean_username/image_name`
-- `docker --config /Path/to/docker/config/.docker-digital-ocean push registry.digitalocean.com/digitalocean_username/image_name`
+- `docker tag rifanid/image_name registry.digitalocean.com/digitalocean_username/digitalocean_container_registry_name`
+- `docker --config /Path/to/docker/config/.docker-digital-ocean push registry.digitalocean.com/digitalocean_username/digitalocean_container_registry_name`
 
 # Digital Ocean Container Registry
 
